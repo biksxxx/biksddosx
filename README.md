@@ -63,7 +63,7 @@ How to use:
 - Using vps with high speed will be stronger
 
 git clone https://github.com/biksxd69/biksddosx.git
-cd biksddosx
+cd biksddos
 npm i requests
 npm i https-proxy-agent
 npm i crypto-random-string
